@@ -42,7 +42,7 @@ payloadX = json.dumps({
       "requested_output": query_value
    }
 })
-payload = jsom.dumps({
+payload = json.dumps({
     "request_data": {
         "inputs": {
             "Capex": 8000,
