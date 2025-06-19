@@ -9,15 +9,18 @@ import requests
 import json
 
 # Initialize FastMCP server
-mcp = FastMCP("api-test", description="API Testing Tool using FastMCP", version="1.0.0")
+mcp = FastMCP("CashflowModel", description="API Testing Tool using FastMCP", version="1.0.0")
 
 # Constants
-url = "https://excel.uat.us.coherent.global/presales/api/v3/folders/Solder-Test/services/mortgage-amort-calculator/execute"
-query_value = "[\"MonthlyPmt\",\"ScheduledNoPayments\",\"ActualNoPmts\",\"YrsSavedOffOrigLoanTerm\",\"TotEarlyPmts\",\"TotalIntPaid\"]"
+#url = "https://excel.uat.us.coherent.global/presales/api/v3/folders/Solder-Test/services/mortgage-amort-calculator/execute"
+#url = "https://excel.uat.us.coherent.global/presales/api/v3/folders/Luna%20-%20Private%20Equity/services/Meteor%20-%20Long-range%20financial%20planning%20model/execute"
+url = "https://excel.uat.us.coherent.global/presales/api/v3/folders/Luna - Private Equity/services/Meteor - Long-range financial planning model/execute"
+
+query_value = "[\"ClientName\",\"ModelName\",\"ProjectName\",\"Results\"]"
 
 # Payload for the API request
-# This payload is structured to match the expected input for the mortgage amortization calculator service.
-payload = json.dumps({
+# This payload is structured to match the expected input for the CashflowModel service.
+payloadX = json.dumps({
    "request_data": {
       "inputs": {
          "ExtraPrincPmt": 100,
@@ -38,6 +41,237 @@ payload = json.dumps({
       "service_category": "ALL",
       "requested_output": query_value
    }
+})
+payload = jsom.dumps({
+    "request_data": {
+        "inputs": {
+            "Capex": 8000,
+            "existing_leases": [
+                {
+                    "Existing leases": "Aus. 22fl",
+                    "Lease expiry date": "2025-06-30",
+                    "Remaining useful life(years)": 1.5,
+                    "Lease renewable": "No",
+                    "Average new lease life(years)": 3.24722222222222,
+                    "% of Total lease liabilties": 0,
+                    "Borrowing Rate pa": 0.0804
+                },
+                {
+                    "Existing leases": "Axis",
+                    "Lease expiry date": "2023-06-30",
+                    "Remaining useful life(years)": 0.5,
+                    "Lease renewable": "No",
+                    "Average new lease life(years)": 3.24722222222222,
+                    "% of Total lease liabilties": 0,
+                    "Borrowing Rate pa": 0.0804
+                },
+                {
+                    "Existing leases": "Brazil",
+                    "Lease expiry date": "2024-10-31",
+                    "Remaining useful life(years)": 0.833333333333333,
+                    "Lease renewable": "Yes",
+                    "Average new lease life(years)": 4.58333333333333,
+                    "% of Total lease liabilties": 0,
+                    "Borrowing Rate pa": 0.0812
+                },
+                {
+                    "Existing leases": "HQ 3fl",
+                    "Lease expiry date": "2027-10-31",
+                    "Remaining useful life(years)": 3.83333333333333,
+                    "Lease renewable": "Yes",
+                    "Average new lease life(years)": 7.58333333333333,
+                    "% of Total lease liabilties": 0.100109950443412,
+                    "Borrowing Rate pa": 0.083
+                },
+                {
+                    "Existing leases": "HQ 34fl",
+                    "Lease expiry date": "2027-10-31",
+                    "Remaining useful life(years)": 3.83333333333333,
+                    "Lease renewable": "Yes",
+                    "Average new lease life(years)": 7.58333333333333,
+                    "% of Total lease liabilties": 0.096114440649257,
+                    "Borrowing Rate pa": 0.083
+                },
+                {
+                    "Existing leases": "HQ 7fl",
+                    "Lease expiry date": "2025-02-28",
+                    "Remaining useful life(years)": 1.16111111111111,
+                    "Lease renewable": "Yes",
+                    "Average new lease life(years)": 4.90833333333333,
+                    "% of Total lease liabilties": 0.301845993543046,
+                    "Borrowing Rate pa": 0.0812
+                },
+                {
+                    "Existing leases": "PG",
+                    "Lease expiry date": "2028-12-31",
+                    "Remaining useful life(years)": 5,
+                    "Lease renewable": "Yes",
+                    "Average new lease life(years)": 8.75,
+                    "% of Total lease liabilties": 0.256056259508767,
+                    "Borrowing Rate pa": 0.08375
+                },
+                {
+                    "Existing leases": "San Diego",
+                    "Lease expiry date": "2025-02-28",
+                    "Remaining useful life(years)": 1.16111111111111,
+                    "Lease renewable": "Yes",
+                    "Average new lease life(years)": 4.90833333333333,
+                    "% of Total lease liabilties": 0.023200121771694,
+                    "Borrowing Rate pa": 0.0812
+                },
+                {
+                    "Existing leases": "Seattle Org. ",
+                    "Lease expiry date": "2028-12-31",
+                    "Remaining useful life(years)": 5,
+                    "Lease renewable": "Yes",
+                    "Average new lease life(years)": 8.75,
+                    "% of Total lease liabilties": 0.067934832786294,
+                    "Borrowing Rate pa": 0.08375
+                },
+                {
+                    "Existing leases": "Seatle Adt Sp.",
+                    "Lease expiry date": "2028-12-31",
+                    "Remaining useful life(years)": 5,
+                    "Lease renewable": "Yes",
+                    "Average new lease life(years)": 8.75,
+                    "% of Total lease liabilties": 0.021581900477245,
+                    "Borrowing Rate pa": 0.08375
+                },
+                {
+                    "Existing leases": "Hungary",
+                    "Lease expiry date": "2027-02-14",
+                    "Remaining useful life(years)": 3.12222222222222,
+                    "Lease renewable": "Yes",
+                    "Average new lease life(years)": 6.70277777777778,
+                    "% of Total lease liabilties": 0.114694577756354,
+                    "Borrowing Rate pa": 0.07896
+                },
+                {
+                    "Existing leases": "Wakefield",
+                    "Lease expiry date": "2024-03-31",
+                    "Remaining useful life(years)": 0.25,
+                    "Lease renewable": "Yes",
+                    "Average new lease life(years)": 3.25,
+                    "% of Total lease liabilties": 0.002499247722022,
+                    "Borrowing Rate pa": 0.0766
+                },
+                {
+                    "Existing leases": "Raleigh",
+                    "Lease expiry date": "2024-08-31",
+                    "Remaining useful life(years)": 0.666666666666667,
+                    "Lease renewable": "Yes",
+                    "Average new lease life(years)": 1.66666666666667,
+                    "% of Total lease liabilties": 0.007181810873309,
+                    "Borrowing Rate pa": 0.0790229
+                },
+                {
+                    "Existing leases": "Greenleaf",
+                    "Lease expiry date": "2026-06-30",
+                    "Remaining useful life(years)": 2.5,
+                    "Lease renewable": "Yes",
+                    "Average new lease life(years)": 2.99722222222222,
+                    "% of Total lease liabilties": 0.0087808644686,
+                    "Borrowing Rate pa": 0.0785
+                }
+            ],
+            "ExistingPPEUsefulLife": 15,
+            "GA_non_personnel_expenses": [
+                {
+                    "Y1": 0.041299977693274,
+                    "Y2": 0.041,
+                    "Y3": 0.03895,
+                    "Y4": 0.0370025,
+                    "Y5": 0.035152375
+                }
+            ],
+            "GA_personnel_expenses": [
+                {
+                    "Y1": 0.035617778642206,
+                    "Y2": 0.033836889710096,
+                    "Y3": 0.032145045224591,
+                    "Y4": 0.028930540702132,
+                    "Y5": 0.028351929888089
+                }
+            ],
+            "GlobalSaaSCOGS": 0.843,
+            "GRR": [
+                {
+                    "Y1": 1,
+                    "Y2": 0.999,
+                    "Y3": 0.999,
+                    "Y4": 0.999,
+                    "Y5": 0.999
+                },
+                {
+                    "Y1": 0.91,
+                    "Y2": 0.925,
+                    "Y3": 0.937,
+                    "Y4": 0.945,
+                    "Y5": 0.95
+                }
+            ],
+            "InterestIncome": 0.01,
+            "LineItem": "Income Statement : GAAP Net Income : GAAP Net Income",
+            "LongTermDebtBorrowingCosts": [
+                {
+                    "Y1": 0.03,
+                    "Y2": 0.03,
+                    "Y3": 0.03,
+                    "Y4": 0.03,
+                    "Y5": 0.03
+                },
+                {
+                    "Y1": 0.06,
+                    "Y2": 0.06,
+                    "Y3": 0.06,
+                    "Y4": 0.06,
+                    "Y5": 0.06
+                },
+                {
+                    "Y1": 0.005,
+                    "Y2": 0.005,
+                    "Y3": 0.005,
+                    "Y4": 0.005,
+                    "Y5": 0.005
+                },
+                {
+                    "Y1": 0.005,
+                    "Y2": 0.005,
+                    "Y3": 0.005,
+                    "Y4": 0.005,
+                    "Y5": 0.005
+                }
+            ],
+            "NewPPEUsefulLife": 15,
+            "RD_non_personnel_expenses": [
+                {
+                    "Y1": 0.031234601083995,
+                    "Y2": 0.031,
+                    "Y3": 0.029,
+                    "Y4": 0.029,
+                    "Y5": 0.029
+                }
+            ],
+            "RD_personnel_expenses": [
+                {
+                    "Y1": 0.092919233098158,
+                    "Y2": 0.091,
+                    "Y3": 0.089,
+                    "Y4": 0.088,
+                    "Y5": 0.088
+                }
+            ]
+        }
+    },
+    "request_meta": {
+        "version_id": "8907652e-e708-409e-971e-d0223db696a4",
+        "transaction_date": None,
+        "call_purpose": "Spark - MCP Claude API Tester",
+        "source_system": "Anthropic Claude",
+        "correlation_id": null,
+        "service_category": "ALL",
+        "requested_output": query_value
+    }
 })
 headers = {
    'Content-Type': 'application/json',
