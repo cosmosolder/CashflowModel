@@ -268,7 +268,7 @@ payload = json.dumps({
         "transaction_date": None,
         "call_purpose": "Spark - MCP Claude API Tester",
         "source_system": "Anthropic Claude",
-        "correlation_id": null,
+        "correlation_id": None,
         "service_category": "ALL",
         "requested_output": query_value
     }
