@@ -12,36 +12,11 @@ import json
 mcp = FastMCP("CashflowModel", description="API Testing Tool using FastMCP", version="1.0.0")
 
 # Constants
-#url = "https://excel.uat.us.coherent.global/presales/api/v3/folders/Solder-Test/services/mortgage-amort-calculator/execute"
-#url = "https://excel.uat.us.coherent.global/presales/api/v3/folders/Luna%20-%20Private%20Equity/services/Meteor%20-%20Long-range%20financial%20planning%20model/execute"
 url = "https://excel.uat.us.coherent.global/presales/api/v3/folders/Luna - Private Equity/services/Meteor - Long-range financial planning model/execute"
-
 query_value = "[\"ClientName\",\"ModelName\",\"ProjectName\",\"Results\"]"
 
 # Payload for the API request
 # This payload is structured to match the expected input for the CashflowModel service.
-payloadX = json.dumps({
-   "request_data": {
-      "inputs": {
-         "ExtraPrincPmt": 100,
-         "InterestRate": 0.05,
-         "Lender": "Wells Fargo",
-         "LoanStartDate": "2025-05-28",
-         "LoanTermYrs": 30,
-         "OrigLoanAmt": 200000,
-         "PaymentsPerYear": 12
-      }
-   },
-   "request_meta": {
-      "version_id": "aeffe1e2-529b-4c2f-9755-5473a391aa83",
-      "transaction_date": None,
-      "call_purpose": None,
-      "source_system": None,
-      "correlation_id": None,
-      "service_category": "ALL",
-      "requested_output": query_value
-   }
-})
 payload = json.dumps({
     "request_data": {
         "inputs": {
@@ -289,9 +264,6 @@ def call_url():
     print(response.text)
     print('+++URL RESPONSE', response.json(), file=sys.stderr)
     return response.json()
-
-
-#response = requests.request("POST", url, headers=headers, data=payload, allow_redirects=False)
 
 async def call_url_func():
     data = await make_url_request(url)  # Call the API to test it asynchronously
