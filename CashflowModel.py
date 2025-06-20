@@ -13,7 +13,7 @@ mcp = FastMCP("CashflowModel", description="API Testing Tool using FastMCP", ver
 
 # Constants
 url = "https://excel.uat.us.coherent.global/presales/api/v3/folders/Luna - Private Equity/services/Meteor - Long-range financial planning model/execute"
-query_value = "[\"ClientName\",\"ModelName\",\"ProjectName\",\"Results\",\"Code\"]"
+query_value = "[\"ClientName\",\"ModelName\",\"ProjectName\",\"Results\",\"BalanceSheet_lineitems\"]"
 
 # Payload for the API request
 # This payload is structured to match the expected input for the CashflowModel service.
