@@ -3,7 +3,13 @@ import json
 from typing import Dict, List, Optional, Union
 from datetime import datetime
 import pandas as pd
+from dotenv import load_dotenv
+import os
 
+load_dotenv()  # Loads variables from .env into environment
+
+env_synthetic_key = os.getenv("SYNTHETIC_KEY")
+CLAUDE_FLAG = os.getenv("CLAUDE_FLAG", "False").lower() == "true"
 
 class FinancialPlanningModelClient:
     """
@@ -23,7 +29,7 @@ class FinancialPlanningModelClient:
             tenant_name: Tenant name for the API (optional, uses default if not provided)
         """
         self.base_url = base_url or "https://excel.uat.us.coherent.global/presales/api/v3"
-        self.synthetic_key = synthetic_key or "46ac56eb-90ea-4570-80c3-4750ffae5874"
+        self.synthetic_key = synthetic_key or env_synthetic_key
         self.tenant_name = tenant_name or "presales"
         
         self.headers = {
@@ -31,6 +37,7 @@ class FinancialPlanningModelClient:
             "x-synthetic-key": self.synthetic_key,
             "x-tenant-name": self.tenant_name
         }
+        
         
         self.endpoint = f"{self.base_url}/folders/Luna - Private Equity/services/Meteor - Long-range financial planning model/execute"
     
@@ -181,10 +188,10 @@ class FinancialPlanningModelClient:
                 }
             },
             "request_meta": {
-                "version_id": "8907652e-e708-409e-971e-d0223db696a4",
+                "version_id": None,
                 "transaction_date": None,
                 "call_purpose": call_purpose,
-                "source_system": "Python Client",
+                "source_system": "Python UI Client",
                 "correlation_id": correlation_id,
                 "service_category": "ALL",
                 "requested_output": [
@@ -197,14 +204,21 @@ class FinancialPlanningModelClient:
             }
         }
         
+        #print("DEBUG...")
+        #print("Request URL:", self.endpoint)
+        #print("Request Headers:", self.headers)
+        #print("Request Payload:", json.dumps(payload, indent=2))    
+
         try:
             response = requests.post(
                 self.endpoint,
                 headers=self.headers,
                 json=payload,
-                timeout=30
+                timeout=60
             )
             response.raise_for_status()
+            print(response.text)
+            print('+++URL RESPONSE', response.json())
             return response.json()
             
         except requests.exceptions.RequestException as e:
@@ -323,7 +337,7 @@ if __name__ == "__main__":
     
     response = client.execute_model(
         capex=8000,
-        call_purpose="Python Client Test"
+        call_purpose="Python UI Client Test"
     )
     
     if "error" not in response:
