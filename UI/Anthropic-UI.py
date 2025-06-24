@@ -217,8 +217,8 @@ class FinancialPlanningModelClient:
                 timeout=60
             )
             response.raise_for_status()
-            print(response.text)
-            print('+++URL RESPONSE', response.json())
+            #print(response.text)
+            #print('+++URL RESPONSE', response.json())
             return response.json()
             
         except requests.exceptions.RequestException as e:
