@@ -239,7 +239,7 @@ payload = json.dumps({
         }
     },
     "request_meta": {
-        "version_id": "8907652e-e708-409e-971e-d0223db696a4",
+        "version_id": None,
         "transaction_date": None,
         "call_purpose": "Spark - MCP Claude API Tester",
         "source_system": "Anthropic Claude",
@@ -248,6 +248,7 @@ payload = json.dumps({
         "requested_output": query_value
     }
 })
+#TODO: set synthetic key in env variable
 headers = {
    'Content-Type': 'application/json',
    'x-tenant-name': 'presales',
