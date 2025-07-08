@@ -40,7 +40,7 @@ def call_url():
     Function to call the API endpoint with the specified payload and headers.
     This is a placeholder for direct API calls.
     """
-    response = requests.post(url=API_URL, headers=headers, data=payload)
+    response = requests.post(url=API_URL, headers=headers, data=payload,json={'key': 'value'})  # Replace with actual payload if needed
     #print(response.text)
     #print('+++URL RESPONSE', response.json(), file=sys.stderr)
     return response.json()
@@ -122,4 +122,4 @@ if __name__ == "__main__":
         # Test the non-server function call
         #asyncio.run(call_url_func())  # type: ignore # Call the API to test it asynchronously
         response=call_url()  # Call the API to test it synchronously
-        print(response, file=sys.stderr)
+        print(response.json(), file=sys.stderr)
