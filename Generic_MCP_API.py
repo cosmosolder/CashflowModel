@@ -55,7 +55,9 @@ def load_api_json():
         raise ValueError("API_JSON environment variable is not set.")
     
     with open(api_json_file, 'r') as file:
-        return json.load(file)             
+        return json.load(file)    
+
+payload = load_api_json()  # Load the API JSON from the specified file         
 
 async def call_url_func():
     data = await make_url_request(API_URL)  # Call the API to test it asynchronously
@@ -113,10 +115,6 @@ if __name__ == "__main__":
     # Test the non-server function call
     #asyncio.run(call_url_func())  # type: ignore # Call the API to test it asynchronously
     
-    check_env_variables()  # Check if all required environment variables are set
-
-   
-    payload = load_api_json()  # Load the API JSON from the specified file
 
     if CLAUDE_FLAG: mcp.run(transport='stdio')
     else:
