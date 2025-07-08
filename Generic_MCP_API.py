@@ -41,8 +41,8 @@ def call_url():
     This is a placeholder for direct API calls.
     """
     response = requests.post(url=API_URL, headers=headers, data=payload)
-    print(response.text)
-    print('+++URL RESPONSE', response.json(), file=sys.stderr)
+    #print(response.text)
+    #print('+++URL RESPONSE', response.json(), file=sys.stderr)
     return response.json()
 
 def load_api_json():
@@ -118,8 +118,9 @@ if __name__ == "__main__":
 
     if CLAUDE_FLAG: mcp.run(transport='stdio')
     else:
-        print('API',API_URL,'\n==========================\n','Headers',headers,'\n===========================\n','Payload',payload, file=sys.stderr)
+        #print('API',API_URL,'\n==========================\n','Headers',headers,'\n===========================\n','Payload',payload, file=sys.stderr)
         # Test the non-server function call
         #asyncio.run(call_url_func())  # type: ignore # Call the API to test it asynchronously
-        call_url()  # Call the API to test it synchronously
+        response=call_url()  # Call the API to test it synchronously
+        
     
