@@ -15,7 +15,7 @@ mcp = FastMCP("GenericMCPApi", description="Generic API Testing Tool using FastM
 global payload
 payload = {}  # Placeholder for the payload, to be loaded from the API JSON file
 
-load_dotenv()  # Loads variables from .env into environment
+load_dotenv()  # Loads variables from .env into environment.  Acts wierd if running in Claude due to "uv" not inhereting environment variables from parent process
 def check_env_variables():
     """
     Check if the required environment variables are set.
@@ -44,8 +44,6 @@ def call_url():
     This is a placeholder for direct API calls.
     """
     response = requests.post(url=API_URL, headers=headers, data=payload,json={'key': 'value'})  # Replace with actual payload if needed
-    #print(response.text)
-    #print('+++URL RESPONSE', response.json(), file=sys.stderr)
     return response.json()
 
 def load_api_json():
@@ -58,7 +56,7 @@ def load_api_json():
     if not api_json_file:
         raise ValueError("API_JSON environment variable is not set.")
     
-    api_json_results_file = api_json_file.replace('.json', '_results.json')  
+    api_json_results_file = api_json_file.replace('.json', '_results.json')  # output results to json file
     
     with open(api_json_file, 'r') as file:
         return json.load(file)
@@ -117,7 +115,7 @@ async def call_api(
 if __name__ == "__main__":
     import asyncio
  
-    payload = load_api_json()  # Load the API JSON from the specified file 
+    payload = load_api_json()  # Load the API JSON input from the specified file 
 
     if CLAUDE_FLAG: mcp.run(transport='stdio')
     else:
