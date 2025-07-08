@@ -122,5 +122,4 @@ if __name__ == "__main__":
         # Test the non-server function call
         #asyncio.run(call_url_func())  # type: ignore # Call the API to test it asynchronously
         response=call_url()  # Call the API to test it synchronously
-        
-    
+        print('+++RESPONSE', response, file=sys.stderr)
