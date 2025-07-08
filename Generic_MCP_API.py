@@ -12,6 +12,9 @@ import os
 
 # Initialize FastMCP server
 mcp = FastMCP("GenericMCPApi", description="Generic API Testing Tool using FastMCP", version="1.0.0")
+global payload
+payload = {}  # Placeholder for the payload, to be loaded from the API JSON file
+
 load_dotenv()  # Loads variables from .env into environment
 def check_env_variables():
     """
@@ -50,14 +53,16 @@ def load_api_json():
     Load the API JSON from the specified file.
     Returns the JSON data as a dictionary.
     """
+    global api_json_results_file
     api_json_file = os.getenv("API_JSON")
     if not api_json_file:
         raise ValueError("API_JSON environment variable is not set.")
     
+    api_json_results_file = api_json_file.replace('.json', '_results.json')  
+    
     with open(api_json_file, 'r') as file:
-        return json.load(file)    
-
-payload = load_api_json()  # Load the API JSON from the specified file         
+        return json.load(file)
+        
 
 async def call_url_func():
     data = await make_url_request(API_URL)  # Call the API to test it asynchronously
@@ -112,14 +117,20 @@ async def call_api(
 if __name__ == "__main__":
     import asyncio
  
-    # Test the non-server function call
-    #asyncio.run(call_url_func())  # type: ignore # Call the API to test it asynchronously
-    
+    payload = load_api_json()  # Load the API JSON from the specified file 
 
     if CLAUDE_FLAG: mcp.run(transport='stdio')
     else:
-        #print('API',API_URL,'\n==========================\n','Headers',headers,'\n===========================\n','Payload',payload, file=sys.stderr)
+
         # Test the non-server function call
         #asyncio.run(call_url_func())  # type: ignore # Call the API to test it asynchronously
-        response=call_url()  # Call the API to test it synchronously
-        print(response.json(), file=sys.stderr)
+
+        response = call_url()  # Call the API to test it synchronously
+
+        pretty_json = json.dumps(response, indent=4, sort_keys=True)  # Pretty print the JSON response
+    
+        with open(api_json_results_file, 'w') as f:
+            f.write(pretty_json)
+
+
+        #print(response.json(), file=sys.stderr)
