@@ -85,6 +85,9 @@ async def make_url_request(url: str) -> Any:
         except Exception as e:
             return {"error": str(e)}    
 
+# Register the API call function as a tool in FastMCP
+# This function can be called from the MCP server or directly
+#--------------------------------------------------------------
 @mcp.tool()
 async def call_api(
     endpoint: str = API_URL,
@@ -125,10 +128,10 @@ if __name__ == "__main__":
 
         response = call_url()  # Call the API to test it synchronously
 
-        pretty_json = json.dumps(response, indent=4, sort_keys=True)  # Pretty print the JSON response
+        pretty_json = json.dumps(response, indent=4, sort_keys=True)  # Format the JSON response
     
+        # print(pretty_json, file=sys.stderr)  # Print to stderr for visibility
+
+        # Write the JSON response to the output file
         with open(api_json_results_file, 'w') as f:
             f.write(pretty_json)
-
-
-        #print(response.json(), file=sys.stderr)

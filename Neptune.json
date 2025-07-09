@@ -3144,7 +3144,7 @@
         }
     },
     "request_meta": {
-        "version_id": versionId,
+        "version_id": null,
         "transaction_date": null,
         "call_purpose": "Spark - MCP Claude API Tester",
         "source_system": "Anthropic Claude",

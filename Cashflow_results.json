@@ -1,0 +1,2901 @@
+{
+    "error": null,
+    "response_data": {
+        "errors": null,
+        "outputs": {
+            "BalanceSheet_lineitems": [
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "SaaS Metrics : Bookings : SaaS"
+                },
+                {
+                    "BalanceSheet_lineitems": "SaaS Metrics : Bookings : Support"
+                },
+                {
+                    "BalanceSheet_lineitems": "SaaS Metrics : Bookings : Services"
+                },
+                {
+                    "BalanceSheet_lineitems": "SaaS Metrics : Bookings : Total Bookings"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "SaaS Metrics : Ending ARR Balance : SaaS"
+                },
+                {
+                    "BalanceSheet_lineitems": "SaaS Metrics : Ending ARR Balance : Support"
+                },
+                {
+                    "BalanceSheet_lineitems": "SaaS Metrics : Ending ARR Balance : Services"
+                },
+                {
+                    "BalanceSheet_lineitems": "SaaS Metrics : Ending ARR Balance : Total Ending ARR Balance"
+                },
+                {
+                    "BalanceSheet_lineitems": "SaaS Metrics : Ending ARR Balance : YoY Growth %"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "SaaS Metrics : Recurring Revenue : Recurring Revenue"
+                },
+                {
+                    "BalanceSheet_lineitems": "SaaS Metrics : % of ARR : % of ARR"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Revenue : SaaS revenue"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Revenue : Support revenue"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Revenue : Service revenue"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Revenue : Total revenue"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Revenue : YoY Growth %"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Cost of Revenue : SaaS costs"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Cost of Revenue : Support costs"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Cost of Revenue : Service costs"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Cost of Revenue : Total cost of revenue"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Gross profit : Gross profit"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Gross Margin : Gross Margin"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Operating expenses : Sales - Personnel Expense"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Operating expenses : Sales - Non-Personnel Expense"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Operating expenses : Marketing - Personnel Expense"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Operating expenses : Marketing - Non-Personnel Expense"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Operating expenses : Sales and marketing "
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Operating expenses : Research and development - Personnel Expense"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Operating expenses : Research and development - Non-Personnel Expense"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Operating expenses : Research and development"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Operating expenses : General and administrative - Personnel Expense"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Operating expenses : General and administrative - Non-Personnel Expense"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Operating expenses : General and Administrative"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Total operating expenses : Total operating expenses"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Non-GAAP Operating Income : Non-GAAP Operating Income"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Non-GAAP Operating Margin : Non-GAAP Operating Margin"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Other (income) expense : Income tax expense"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Other (income) expense : Interest income"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Other (income) expense : Interest expense"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Other (income) expense : Tax effects of adjustments"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Other (income) expense : Other Expense (Income)"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Total other Expense (income), net : Total other Expense (income), net"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Non-GAAP Net Income : Non-GAAP Net Income"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Non-GAAP Net Margin : Non-GAAP Net Margin"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : EBITDA Adjustments : Income tax expense"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : EBITDA Adjustments : Interest income"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : EBITDA Adjustments : Interest expense"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : EBITDA Adjustments : Tax effects of adjustments"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : EBITDA Adjustments : Depreciation"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : EBITDA Adjustments : Amortization"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : EBITDA Adjustments : Capitalized Software Development Cost"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : EBITDA Adjustments : Other Non-GAAP Adjustments"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Total EBITDA Adjustments : Total EBITDA Adjustments"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Adjusted EBITDA : Adjusted EBITDA"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Adjusted EBITDA Margin : Adjusted EBITDA Margin"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : GAAP Adjustments : Depreciation"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : GAAP Adjustments : Amortization (Acquisition Related)"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : GAAP Adjustments : Capitalized Software Development Cost"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : GAAP Adjustments : Interest income"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : GAAP Adjustments : Interest expense"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : GAAP Adjustments : Income tax expense"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : GAAP Adjustments : Stock-Based Comp"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : GAAP Adjustments : Restructuring, Transaction Fees, & Sponsored Costs"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : GAAP Adjustments : Other Non-GAAP Adjustments"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : Total GAAP Adjustments : Total GAAP Adjustments"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : GAAP Net Income : GAAP Net Income"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement : GAAP Net Margin : GAAP Net Margin"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement - % of Total Revenue : Revenue : SaaS revenue"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement - % of Total Revenue : Revenue : Support revenue"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement - % of Total Revenue : Revenue : Service revenue"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement - % of Total Revenue : Cost of revenue : SaaS costs"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement - % of Total Revenue : Cost of revenue : Support costs"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement - % of Total Revenue : Cost of revenue : Service costs"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement - % of Total Revenue : Cost of revenue : Total COGS"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement - % of Total Revenue : Cost of revenue : Total Gross Margins"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement - % of Total Revenue : Operating expenses : Sales - Personnel Expense"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement - % of Total Revenue : Operating expenses : Sales - Non-Personnel Expense"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement - % of Total Revenue : Operating expenses : Marketing - Personnel Expense"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement - % of Total Revenue : Operating expenses : Marketing - Non-Personnel Expense"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement - % of Total Revenue : Operating expenses : Sales and marketing "
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement - % of Total Revenue : Operating expenses : Research and development - Personnel Expense"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement - % of Total Revenue : Operating expenses : Research and development - Non-Personnel Expense"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement - % of Total Revenue : Operating expenses : Research and development"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement - % of Total Revenue : Operating expenses : General and administrative - Personnel Expense"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement - % of Total Revenue : Operating expenses : General and administrative - Non-Personnel Expense"
+                },
+                {
+                    "BalanceSheet_lineitems": "Income Statement - % of Total Revenue : Operating expenses : General and Administrative"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "Unlevered Free Cash Flow Bridge : GAAP Net Income : GAAP Net Income"
+                },
+                {
+                    "BalanceSheet_lineitems": "Unlevered Free Cash Flow Bridge : Operating Adjustments : Operating Adjustments"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "Unlevered Free Cash Flow Bridge : Changes in assets and liabilities : Accounts receivable, net"
+                },
+                {
+                    "BalanceSheet_lineitems": "Unlevered Free Cash Flow Bridge : Changes in assets and liabilities : Prepaid expenses and other assets "
+                },
+                {
+                    "BalanceSheet_lineitems": "Unlevered Free Cash Flow Bridge : Changes in assets and liabilities : Deferred commissions"
+                },
+                {
+                    "BalanceSheet_lineitems": "Unlevered Free Cash Flow Bridge : Changes in assets and liabilities : Right-of-use assets "
+                },
+                {
+                    "BalanceSheet_lineitems": "Unlevered Free Cash Flow Bridge : Changes in assets and liabilities : Accounts payable"
+                },
+                {
+                    "BalanceSheet_lineitems": "Unlevered Free Cash Flow Bridge : Changes in assets and liabilities : Accrued liabilities"
+                },
+                {
+                    "BalanceSheet_lineitems": "Unlevered Free Cash Flow Bridge : Changes in assets and liabilities : Deferred revenue"
+                },
+                {
+                    "BalanceSheet_lineitems": "Unlevered Free Cash Flow Bridge : Changes in assets and liabilities : Lease liabilities"
+                },
+                {
+                    "BalanceSheet_lineitems": "Unlevered Free Cash Flow Bridge : Changes in assets and liabilities : Changes in other assets & liabilities "
+                },
+                {
+                    "BalanceSheet_lineitems": "Unlevered Free Cash Flow Bridge : Net cash provided by (used in) operating activities : Net cash provided by (used in) operating activities"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "Unlevered Free Cash Flow Bridge : Changes in PPE : Property and equipment, net"
+                },
+                {
+                    "BalanceSheet_lineitems": "Unlevered Free Cash Flow Bridge : Levered FCF : Levered FCF"
+                },
+                {
+                    "BalanceSheet_lineitems": "Unlevered Free Cash Flow Bridge : Cash Settle stock compensation : Cash Settle stock compensation"
+                },
+                {
+                    "BalanceSheet_lineitems": "Unlevered Free Cash Flow Bridge : Interest on outstanding debt and loss on debt extinguishment : Interest on outstanding debt and loss on debt extinguishment"
+                },
+                {
+                    "BalanceSheet_lineitems": "Unlevered Free Cash Flow Bridge : Unlevered FCF : Unlevered FCF"
+                },
+                {
+                    "BalanceSheet_lineitems": "Unlevered Free Cash Flow Bridge : Restructuring, Transaction Fees, & Sponsored Costs (Paid in Cash) : Restructuring, Transaction Fees, & Sponsored Costs (Paid in Cash)"
+                },
+                {
+                    "BalanceSheet_lineitems": "Unlevered Free Cash Flow Bridge : Adjusted Unlevered FCF : Adjusted Unlevered FCF"
+                },
+                {
+                    "BalanceSheet_lineitems": "Unlevered Free Cash Flow Bridge : Free Cash Flow Conversion % : Free Cash Flow Conversion %"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "Balance Sheet : Assets : Cash and cash equivalents"
+                },
+                {
+                    "BalanceSheet_lineitems": "Balance Sheet : Assets : Accounts receivable-net"
+                },
+                {
+                    "BalanceSheet_lineitems": "Balance Sheet : Assets : Prepaid expenses"
+                },
+                {
+                    "BalanceSheet_lineitems": "Balance Sheet : Assets : Deferred commissions"
+                },
+                {
+                    "BalanceSheet_lineitems": "Balance Sheet : Assets : Other current assets"
+                },
+                {
+                    "BalanceSheet_lineitems": "Balance Sheet : Assets : Total current assets"
+                },
+                {
+                    "BalanceSheet_lineitems": "Balance Sheet : Assets : Property and equipment, net"
+                },
+                {
+                    "BalanceSheet_lineitems": "Balance Sheet : Assets : Right-of-use assets"
+                },
+                {
+                    "BalanceSheet_lineitems": "Balance Sheet : Assets : Goodwill"
+                },
+                {
+                    "BalanceSheet_lineitems": "Balance Sheet : Assets : Intangible assets, net"
+                },
+                {
+                    "BalanceSheet_lineitems": "Balance Sheet : Assets : Deferred commissions, net of current portion"
+                },
+                {
+                    "BalanceSheet_lineitems": "Balance Sheet : Assets : Other assets"
+                },
+                {
+                    "BalanceSheet_lineitems": "Balance Sheet : Total assets : Total assets"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "Balance Sheet : Liabilities and stockholders' equity : Accounts payable"
+                },
+                {
+                    "BalanceSheet_lineitems": "Balance Sheet : Liabilities and stockholders' equity : Accrued liabilities"
+                },
+                {
+                    "BalanceSheet_lineitems": "Balance Sheet : Liabilities and stockholders' equity : Lease liabilities"
+                },
+                {
+                    "BalanceSheet_lineitems": "Balance Sheet : Liabilities and stockholders' equity : Long-term debt, current"
+                },
+                {
+                    "BalanceSheet_lineitems": "Balance Sheet : Liabilities and stockholders' equity : Deferred revenue"
+                },
+                {
+                    "BalanceSheet_lineitems": "Balance Sheet : Liabilities and stockholders' equity : Total current liabilities"
+                },
+                {
+                    "BalanceSheet_lineitems": "Balance Sheet : Liabilities and stockholders' equity : Long-term debt, net of current portion"
+                },
+                {
+                    "BalanceSheet_lineitems": "Balance Sheet : Liabilities and stockholders' equity : Deferred revenue, net of current portion"
+                },
+                {
+                    "BalanceSheet_lineitems": "Balance Sheet : Liabilities and stockholders' equity : Lease liabilities, net of current portion"
+                },
+                {
+                    "BalanceSheet_lineitems": "Balance Sheet : Liabilities and stockholders' equity : Deferred tax liabilities"
+                },
+                {
+                    "BalanceSheet_lineitems": "Balance Sheet : Liabilities and stockholders' equity : Other long-term liabilities"
+                },
+                {
+                    "BalanceSheet_lineitems": "Balance Sheet : Liabilities and stockholders' equity : Total liabilities"
+                },
+                {
+                    "BalanceSheet_lineitems": "Balance Sheet : Liabilities and stockholders' equity : Stockholders' equity:"
+                },
+                {
+                    "BalanceSheet_lineitems": "Balance Sheet : Liabilities and stockholders' equity : Additional paid-in capital"
+                },
+                {
+                    "BalanceSheet_lineitems": "Balance Sheet : Liabilities and stockholders' equity : Retained Earnings"
+                },
+                {
+                    "BalanceSheet_lineitems": "Balance Sheet : Liabilities and stockholders' equity : Total stockholders' equity"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "Balance Sheet : Total liabilities and stockholders' equity : Total liabilities and stockholders' equity"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "Cashflow statement : GAAP Net Income : GAAP Net Income"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "Cashflow statement : Adjustments : Depreciation of property and equipment"
+                },
+                {
+                    "BalanceSheet_lineitems": "Cashflow statement : Adjustments : Amortization of intangible assets"
+                },
+                {
+                    "BalanceSheet_lineitems": "Cashflow statement : Adjustments : Stock-based compensation"
+                },
+                {
+                    "BalanceSheet_lineitems": "Cashflow statement : Adjustments : Other"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "Cashflow statement : Changes in working capital : Accounts receivable, net"
+                },
+                {
+                    "BalanceSheet_lineitems": "Cashflow statement : Changes in working capital : Prepaid expenses and other assets "
+                },
+                {
+                    "BalanceSheet_lineitems": "Cashflow statement : Changes in working capital : Deferred commissions"
+                },
+                {
+                    "BalanceSheet_lineitems": "Cashflow statement : Changes in working capital : Right-of-use assets "
+                },
+                {
+                    "BalanceSheet_lineitems": "Cashflow statement : Changes in working capital : Accounts payable, customer paybles and accrued liabilities"
+                },
+                {
+                    "BalanceSheet_lineitems": "Cashflow statement : Changes in working capital : Deferred revenue "
+                },
+                {
+                    "BalanceSheet_lineitems": "Cashflow statement : Changes in working capital : Lease liabilities"
+                },
+                {
+                    "BalanceSheet_lineitems": "Cashflow statement : Changes in working capital : Changes in other assets & liabilities "
+                },
+                {
+                    "BalanceSheet_lineitems": "Cashflow statement : Net cash in Operating activities : Net cash in Operating activities"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "Cashflow statement : Purchases of property and equipment : Purchases of property and equipment"
+                },
+                {
+                    "BalanceSheet_lineitems": "Cashflow statement : Other investing activities : Other investing activities"
+                },
+                {
+                    "BalanceSheet_lineitems": "Cashflow statement : Net cash in Investing activities : Net cash in Investing activities"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "Cashflow statement : Net Proceeds from issuance (repurchase) of common stock : Net Proceeds from issuance (repurchase) of common stock"
+                },
+                {
+                    "BalanceSheet_lineitems": "Cashflow statement : Proceeds from issuance of term debt, net of discount : Proceeds from issuance of term debt, net of discount"
+                },
+                {
+                    "BalanceSheet_lineitems": "Cashflow statement : Distributions to stockholders : Distributions to stockholders"
+                },
+                {
+                    "BalanceSheet_lineitems": "Cashflow statement : Repayments of debt : Repayments of debt"
+                },
+                {
+                    "BalanceSheet_lineitems": "Cashflow statement : Payments of financing costs                                                                                    : Payments of financing costs                                                                                   "
+                },
+                {
+                    "BalanceSheet_lineitems": "Cashflow statement : Proceeds from Revolver Loan : Proceeds from Revolver Loan"
+                },
+                {
+                    "BalanceSheet_lineitems": "Cashflow statement : Repayment of Revolver Loan : Repayment of Revolver Loan"
+                },
+                {
+                    "BalanceSheet_lineitems": "Cashflow statement : Net cash in Financing activities : Net cash in Financing activities"
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "Cashflow statement : Foreign currency impacts on cash and cash equivalents  : Foreign currency impacts on cash and cash equivalents "
+                },
+                {
+                    "BalanceSheet_lineitems": "NA"
+                },
+                {
+                    "BalanceSheet_lineitems": "Cashflow statement : Net increase (decrease) in cash, cash equivalents and restricted cash : Net increase (decrease) in cash, cash equivalents and restricted cash"
+                },
+                {
+                    "BalanceSheet_lineitems": "Cashflow statement : Cash, cash equivalents and restricted cash, beginning of period                                  : Cash, cash equivalents and restricted cash, beginning of period                                 "
+                }
+            ],
+            "ClientName": "Meteor",
+            "ModelName": "Long-Range Financial Model",
+            "ProjectName": "Meteor AI",
+            "Results": [
+                {
+                    "2022": -17137.040485,
+                    "2023": -16996.8307000001,
+                    "2024": -16655.6840006479,
+                    "2025": -3280.79057556014,
+                    "2026": 15875.6579537445,
+                    "2027": 45572.7284082838,
+                    "2028": 57884.7618380999
+                }
+            ],
+            "Value": [
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": 23680.494,
+                    "C2": 21709.9785,
+                    "C3": 25631.8225,
+                    "C4": 26537.3985502238,
+                    "C5": 28543.4302545117,
+                    "C6": 30993.1351325749,
+                    "C7": 34143.4338225544
+                },
+                {
+                    "C1": 3510.0115,
+                    "C2": 2406.699,
+                    "C3": 2667.671,
+                    "C4": 2866.08599514435,
+                    "C5": 3308.76949225543,
+                    "C6": 3898.00998194348,
+                    "C7": 4553.12601447142
+                },
+                {
+                    "C1": 19263.0535,
+                    "C2": 18343.1885,
+                    "C3": 18400.5065,
+                    "C4": 18900.6406478399,
+                    "C5": 20523.134648241,
+                    "C6": 22578.7984330027,
+                    "C7": 24616.1854681781
+                },
+                {
+                    "C1": 46453.559,
+                    "C2": 42459.866,
+                    "C3": 46700.0,
+                    "C4": 48304.1251932081,
+                    "C5": 52375.3343950082,
+                    "C6": 57469.9435475211,
+                    "C7": 63312.7453052039
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": 199775.823662526,
+                    "C2": 215325.549760711,
+                    "C3": 230258.117165457,
+                    "C4": 248100.423840707,
+                    "C5": 268203.319644036,
+                    "C6": 290699.967808135,
+                    "C7": 315860.274539135
+                },
+                {
+                    "C1": 32446.0687894287,
+                    "C2": 33741.3160022036,
+                    "C3": 35643.8828345428,
+                    "C4": 37957.4386320216,
+                    "C5": 40654.841536156,
+                    "C6": 43923.2316006193,
+                    "C7": 47804.0513781436
+                },
+                {
+                    "C1": 5611.0413143018,
+                    "C2": 5412.13426261254,
+                    "C3": 5412.13426261254,
+                    "C4": 5412.13426261254,
+                    "C5": 5412.13426261254,
+                    "C6": 5412.13426261254,
+                    "C7": 5412.13426261254
+                },
+                {
+                    "C1": 237832.933766256,
+                    "C2": 254479.000025527,
+                    "C3": 271314.134262613,
+                    "C4": 291469.996735341,
+                    "C5": 314270.295442805,
+                    "C6": 340035.333671367,
+                    "C7": 369076.460179891
+                },
+                {
+                    "C1": 0,
+                    "C2": 0.0699905853897895,
+                    "C3": 0.0661552986116594,
+                    "C4": 0.0742897620409966,
+                    "C5": 0.0782251997215573,
+                    "C6": 0.0819836892069585,
+                    "C7": 0.0854062023348183
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": 215763.979735,
+                    "C2": 242798.69043,
+                    "C3": 256426.94166,
+                    "C4": 276874.746827809,
+                    "C5": 298217.677924895,
+                    "C6": 322486.933139908,
+                    "C7": 349900.693336192
+                },
+                {
+                    "C1": 0.907208166330129,
+                    "C2": 0.954101086555843,
+                    "C3": 0.945129314242793,
+                    "C4": 0.94992537801143,
+                    "C5": 0.948920983781521,
+                    "C6": 0.948392420452344,
+                    "C7": 0.948043917961192
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": 184416.041275,
+                    "C2": 208763.35097,
+                    "C3": 221152.21058,
+                    "C4": 239732.299792049,
+                    "C5": 258568.134849917,
+                    "C6": 279809.21337354,
+                    "C7": 303590.513655864
+                },
+                {
+                    "C1": 31347.93846,
+                    "C2": 34035.33946,
+                    "C3": 35274.73108,
+                    "C4": 37142.4470357604,
+                    "C5": 39649.5430749789,
+                    "C6": 42677.7197663675,
+                    "C7": 46310.1796803275
+                },
+                {
+                    "C1": 22267.139805,
+                    "C2": 22347.06635,
+                    "C3": 23662.805039715,
+                    "C4": 24077.1987778252,
+                    "C5": 25173.821168909,
+                    "C6": 27031.1663861405,
+                    "C7": 29044.3698820579
+                },
+                {
+                    "C1": 238031.11954,
+                    "C2": 265145.75678,
+                    "C3": 280089.746699715,
+                    "C4": 300951.945605634,
+                    "C5": 323391.499093804,
+                    "C6": 349518.099526048,
+                    "C7": 378945.063218249
+                },
+                {
+                    "C1": 0,
+                    "C2": 0.113912152715156,
+                    "C3": 0.056361414571362,
+                    "C4": 0.0744839793378285,
+                    "C5": 0.0745619153350643,
+                    "C6": 0.0807893853284798,
+                    "C7": 0.0841929609141969
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": 30154.773335,
+                    "C2": 34342.89976,
+                    "C3": 35647.3431404424,
+                    "C4": 37637.9710673516,
+                    "C5": 40207.344969162,
+                    "C6": 43090.6188595253,
+                    "C7": 46145.7580756914
+                },
+                {
+                    "C1": 10670.04487,
+                    "C2": 10345.98095,
+                    "C3": 9818.56753317748,
+                    "C4": 9917.03335854803,
+                    "C5": 10546.7784579444,
+                    "C6": 11288.2568782042,
+                    "C7": 12202.7323457663
+                },
+                {
+                    "C1": 11939.840205,
+                    "C2": 12512.78555,
+                    "C3": 12738.7030715915,
+                    "C4": 12881.3013461365,
+                    "C5": 13417.6466830285,
+                    "C6": 14272.4558518822,
+                    "C7": 15132.1167085521
+                },
+                {
+                    "C1": 52764.65841,
+                    "C2": 57201.66626,
+                    "C3": 58204.6137452113,
+                    "C4": 60436.3057720362,
+                    "C5": 64171.7701101349,
+                    "C6": 68651.3315896117,
+                    "C7": 73480.6071300098
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": 185266.46113,
+                    "C2": 207944.09052,
+                    "C3": 221885.132954504,
+                    "C4": 240515.639833598,
+                    "C5": 259219.728983669,
+                    "C6": 280866.767936437,
+                    "C7": 305464.45608824
+                },
+                {
+                    "C1": 0.778328739065847,
+                    "C2": 0.784263316318269,
+                    "C3": 0.792192986601496,
+                    "C4": 0.799182870705772,
+                    "C5": 0.801566304958681,
+                    "C6": 0.803582899761976,
+                    "C7": 0.806091662717639
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": 31289.035035,
+                    "C2": 33474.72344,
+                    "C3": 34803.8095841749,
+                    "C4": 37396.1358181203,
+                    "C5": 39938.8501380848,
+                    "C6": 43165.485291467,
+                    "C7": 46799.7153074538
+                },
+                {
+                    "C1": 8104.9164,
+                    "C2": 8776.45868,
+                    "C3": 9202.95323680368,
+                    "C4": 9888.42581554077,
+                    "C5": 10625.7257839962,
+                    "C6": 11184.5791848336,
+                    "C7": 12126.242022984
+                },
+                {
+                    "C1": 3598.2247,
+                    "C2": 4589.880285,
+                    "C3": 3574.43139030449,
+                    "C4": 3840.66926412442,
+                    "C5": 4127.03692062605,
+                    "C6": 4194.21719431258,
+                    "C7": 4547.34075861899
+                },
+                {
+                    "C1": 4688.85588,
+                    "C2": 4577.57208,
+                    "C3": 4209.6918033667,
+                    "C4": 4523.24640066729,
+                    "C5": 4860.50831583348,
+                    "C6": 4893.25339336468,
+                    "C7": 5305.23088505549
+                },
+                {
+                    "C1": 47681.032015,
+                    "C2": 51418.634485,
+                    "C3": 51790.8860146498,
+                    "C4": 55648.4772984528,
+                    "C5": 59552.1211585405,
+                    "C6": 63437.5350639778,
+                    "C7": 68778.5289741123
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": 21430.964135,
+                    "C2": 24206.621515,
+                    "C3": 26025.7244619949,
+                    "C4": 27386.6270501127,
+                    "C5": 28781.8434193486,
+                    "C6": 30757.5927582923,
+                    "C7": 33347.165563206
+                },
+                {
+                    "C1": 9452.77093,
+                    "C2": 8450.573675,
+                    "C3": 8748.49150588273,
+                    "C4": 9329.51031377466,
+                    "C5": 9378.35347372033,
+                    "C6": 10136.0248862554,
+                    "C7": 10989.4068333292
+                },
+                {
+                    "C1": 30883.735065,
+                    "C2": 32657.19519,
+                    "C3": 34774.2159678776,
+                    "C4": 36716.1373638874,
+                    "C5": 38160.1968930689,
+                    "C6": 40893.6176445477,
+                    "C7": 44336.5723965352
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": 9922.80372,
+                    "C2": 9393.43464,
+                    "C3": 9976.17459790195,
+                    "C4": 10183.2777914965,
+                    "C5": 10395.4343636185,
+                    "C6": 10111.7476044701,
+                    "C7": 10743.8238638013
+                },
+                {
+                    "C1": 9853.930815,
+                    "C2": 9550.649725,
+                    "C3": 11567.700290813,
+                    "C4": 12339.029769831,
+                    "C5": 12596.0988897037,
+                    "C6": 12933.0434777126,
+                    "C7": 13320.8189666466
+                },
+                {
+                    "C1": 19776.734535,
+                    "C2": 18944.084365,
+                    "C3": 21543.8748887149,
+                    "C4": 22522.3075613275,
+                    "C5": 22991.5332533222,
+                    "C6": 23044.7910821827,
+                    "C7": 24064.6428304479
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": 98341.501615,
+                    "C2": 103019.91404,
+                    "C3": 108108.976871242,
+                    "C4": 114886.922223668,
+                    "C5": 120703.851304932,
+                    "C6": 127375.943790708,
+                    "C7": 137179.744201095
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": 86924.959515,
+                    "C2": 104924.17648,
+                    "C3": 113776.156083261,
+                    "C4": 125628.71760993,
+                    "C5": 138515.877678738,
+                    "C6": 153490.824145729,
+                    "C7": 168284.711887144
+                },
+                {
+                    "C1": 0.3651831730363,
+                    "C2": 0.39572263103218,
+                    "C3": 0.406213213528452,
+                    "C4": 0.417437798440265,
+                    "C5": 0.428322568981813,
+                    "C6": 0.439149859059844,
+                    "C7": 0.44408735782955
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": -4066,
+                    "C2": -2128.81963,
+                    "C3": -1650,
+                    "C4": -325.012437163406,
+                    "C5": 1572.7265012148,
+                    "C6": 2398.56465306757,
+                    "C7": 6431.64020423333
+                },
+                {
+                    "C1": -839.5,
+                    "C2": -2906.518795,
+                    "C3": -3355.90331,
+                    "C4": -2660.3016213866,
+                    "C5": -3532.70467410352,
+                    "C6": -4459.50246602977,
+                    "C7": -5455.98264415845
+                },
+                {
+                    "C1": 12297.5,
+                    "C2": 21011.003855,
+                    "C3": 20593.96102,
+                    "C4": 22505.375424125,
+                    "C5": 22030.375424125,
+                    "C6": 21555.375424125,
+                    "C7": 17502.0010308645
+                },
+                {
+                    "C1": 23994.5,
+                    "C2": 26252,
+                    "C3": 28710.9455934773,
+                    "C4": 27347.3617049789,
+                    "C5": 25642.4556184393,
+                    "C6": 22105.9145315705,
+                    "C7": 22980.5728645262
+                },
+                {
+                    "C1": 232,
+                    "C2": 235.923,
+                    "C3": 0,
+                    "C4": 0,
+                    "C5": 0,
+                    "C6": 0,
+                    "C7": 0
+                },
+                {
+                    "C1": 31618.5,
+                    "C2": 42463.58843,
+                    "C3": 44299.0033034773,
+                    "C4": 46867.4230705539,
+                    "C5": 45712.8528696755,
+                    "C6": 41600.3521427333,
+                    "C7": 41458.2314554656
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": 55306.459515,
+                    "C2": 62460.5880499999,
+                    "C3": 69477.152779784,
+                    "C4": 78761.2945393765,
+                    "C5": 92803.0248090623,
+                    "C6": 111890.472002995,
+                    "C7": 126826.480431679
+                },
+                {
+                    "C1": 0.232349701257049,
+                    "C2": 0.23557076231782,
+                    "C3": 0.248053181519246,
+                    "C4": 0.261707211697461,
+                    "C5": 0.286968040499245,
+                    "C6": 0.320127833593512,
+                    "C7": 0.334683025963144
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": -4066,
+                    "C2": -2128.81963,
+                    "C3": -1650,
+                    "C4": -325.012437163406,
+                    "C5": 1572.7265012148,
+                    "C6": 2398.56465306757,
+                    "C7": 6431.64020423333
+                },
+                {
+                    "C1": -839.5,
+                    "C2": -2906.518795,
+                    "C3": -3355.90331,
+                    "C4": -2660.3016213866,
+                    "C5": -3532.70467410352,
+                    "C6": -4459.50246602977,
+                    "C7": -5455.98264415845
+                },
+                {
+                    "C1": 12297.5,
+                    "C2": 21011.003855,
+                    "C3": 20593.96102,
+                    "C4": 22505.375424125,
+                    "C5": 22030.375424125,
+                    "C6": 21555.375424125,
+                    "C7": 17502.0010308645
+                },
+                {
+                    "C1": 23994.5,
+                    "C2": 26252,
+                    "C3": 28710.9455934773,
+                    "C4": 27347.3617049789,
+                    "C5": 25642.4556184393,
+                    "C6": 22105.9145315705,
+                    "C7": 22980.5728645262
+                },
+                {
+                    "C1": 2245.5,
+                    "C2": 1114.70067,
+                    "C3": 1269.83602906274,
+                    "C4": 3838.19646139797,
+                    "C5": 4604.48830623563,
+                    "C6": 5065.63996650396,
+                    "C7": 5725.30242656306
+                },
+                {
+                    "C1": 4,
+                    "C2": 0,
+                    "C3": 0,
+                    "C4": 0,
+                    "C5": 0,
+                    "C6": 0,
+                    "C7": 0
+                },
+                {
+                    "C1": 703,
+                    "C2": 1278.25824,
+                    "C3": 1365.68358333333,
+                    "C4": 1441.94842775439,
+                    "C5": 1498.66080321616,
+                    "C6": 1606.01010621944,
+                    "C7": 1741.22485232018
+                },
+                {
+                    "C1": 134,
+                    "C2": 67.575,
+                    "C3": 0,
+                    "C4": 0,
+                    "C5": 0,
+                    "C6": 0,
+                    "C7": 0
+                },
+                {
+                    "C1": 34473,
+                    "C2": 44688.19934,
+                    "C3": 46934.5229158734,
+                    "C4": 52147.5679597062,
+                    "C5": 51816.0019791273,
+                    "C6": 48272.0022154567,
+                    "C7": 48924.7587343488
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": 89779.459515,
+                    "C2": 107148.78739,
+                    "C3": 116411.675695657,
+                    "C4": 130908.862499083,
+                    "C5": 144619.02678819,
+                    "C6": 160162.474218452,
+                    "C7": 175751.239166027
+                },
+                {
+                    "C1": 0.377175302491963,
+                    "C2": 0.404112774389615,
+                    "C3": 0.415622767585501,
+                    "C4": 0.434982609052892,
+                    "C5": 0.44719489285722,
+                    "C6": 0.45823799807688,
+                    "C7": 0.463790813563932
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": 2245.5,
+                    "C2": 1114.70067,
+                    "C3": 1269.83602906274,
+                    "C4": 3838.19646139797,
+                    "C5": 4604.48830623563,
+                    "C6": 5065.63996650396,
+                    "C7": 5725.30242656306
+                },
+                {
+                    "C1": 68355,
+                    "C2": 71483.086645,
+                    "C3": 71221.190544,
+                    "C4": 39792.3930758627,
+                    "C5": 36419.819709833,
+                    "C6": 22017.9311779984,
+                    "C7": 22016.0701924026
+                },
+                {
+                    "C1": 703,
+                    "C2": 1278.25824,
+                    "C3": 1365.68358333333,
+                    "C4": 1441.94842775439,
+                    "C5": 1498.66080321616,
+                    "C6": 1606.01010621944,
+                    "C7": 1741.22485232018
+                },
+                {
+                    "C1": -839.5,
+                    "C2": -2906.518795,
+                    "C3": -3355.90331,
+                    "C4": -2660.3016213866,
+                    "C5": -3532.70467410352,
+                    "C6": -4459.50246602977,
+                    "C7": -5455.98264415845
+                },
+                {
+                    "C1": 12297.5,
+                    "C2": 21011.003855,
+                    "C3": 20593.96102,
+                    "C4": 22505.375424125,
+                    "C5": 22030.375424125,
+                    "C6": 21555.375424125,
+                    "C7": 17502.0010308645
+                },
+                {
+                    "C1": -4066,
+                    "C2": -2128.81963,
+                    "C3": -1650,
+                    "C4": -325.012437163406,
+                    "C5": 1572.7265012148,
+                    "C6": 2398.56465306757,
+                    "C7": 6431.64020423333
+                },
+                {
+                    "C1": 19889.5,
+                    "C2": 22097.613865,
+                    "C3": 23034.6394873975,
+                    "C4": 56357.6044940528,
+                    "C5": 59530.278138924,
+                    "C6": 63095.8646357837,
+                    "C7": 68251.2901094524
+                },
+                {
+                    "C1": 6632.5,
+                    "C2": 12910.59258,
+                    "C3": 20587.9523425118,
+                    "C4": 13239.44925,
+                    "C5": 6619.724625,
+                    "C6": 3309.8623125,
+                    "C7": 1654.93115625
+                },
+                {
+                    "C1": 1699,
+                    "C2": -714.299340000008,
+                    "C3": 0,
+                    "C4": 0,
+                    "C5": 0,
+                    "C6": 0,
+                    "C7": 0
+                },
+                {
+                    "C1": 106916.5,
+                    "C2": 124145.61809,
+                    "C3": 133067.359696305,
+                    "C4": 134189.653074643,
+                    "C5": 128743.368834445,
+                    "C6": 114589.745810168,
+                    "C7": 117866.477327928
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": -17137.040485,
+                    "C2": -16996.8307000001,
+                    "C3": -16655.6840006479,
+                    "C4": -3280.79057556014,
+                    "C5": 15875.6579537445,
+                    "C6": 45572.7284082838,
+                    "C7": 57884.7618380999
+                },
+                {
+                    "C1": -0.071994958130339,
+                    "C2": -0.0641037250847008,
+                    "C3": -0.0594655255927828,
+                    "C4": -0.0109013768592122,
+                    "C5": 0.0490911418458143,
+                    "C6": 0.130387320342154,
+                    "C7": 0.152752384069882
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": 0.774756013547253,
+                    "C2": 0.787353165689986,
+                    "C3": 0.789576245420715,
+                    "C4": 0.796579996549325,
+                    "C5": 0.799551427834271,
+                    "C6": 0.800557149266278,
+                    "C7": 0.801146506772182
+                },
+                {
+                    "C1": 0.131696807209833,
+                    "C2": 0.128364639409411,
+                    "C3": 0.125940815383785,
+                    "C4": 0.123416537351221,
+                    "C5": 0.122605396821139,
+                    "C6": 0.12210446275669,
+                    "C7": 0.122208162014386
+                },
+                {
+                    "C1": 0.0935471792429146,
+                    "C2": 0.0842821949006036,
+                    "C3": 0.0844829391954999,
+                    "C4": 0.0800034660994544,
+                    "C5": 0.0778431753445905,
+                    "C6": 0.0773383879770323,
+                    "C7": 0.0766453312134325
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": 0.126684163790326,
+                    "C2": 0.129524606303602,
+                    "C3": 0.127271146339605,
+                    "C4": 0.125063059458244,
+                    "C5": 0.124330247028229,
+                    "C6": 0.123285800987007,
+                    "C7": 0.121774269029372
+                },
+                {
+                    "C1": 0.044826260073137,
+                    "C2": 0.0390199755622882,
+                    "C3": 0.0350550766276496,
+                    "C4": 0.032952215472776,
+                    "C5": 0.0326130355544229,
+                    "C6": 0.0322966303991446,
+                    "C7": 0.0322018506907907
+                },
+                {
+                    "C1": 0.0501608370706905,
+                    "C2": 0.0471921018158411,
+                    "C3": 0.0454807904312494,
+                    "C4": 0.0428018543632081,
+                    "C5": 0.0414904124586667,
+                    "C6": 0.0408346688518731,
+                    "C7": 0.0399322175621983
+                },
+                {
+                    "C1": 0.221671260934153,
+                    "C2": 0.215736683681731,
+                    "C3": 0.207807013398504,
+                    "C4": 0.200817129294228,
+                    "C5": 0.198433695041319,
+                    "C6": 0.196417100238024,
+                    "C7": 0.193908337282361
+                },
+                {
+                    "C1": 0.778328739065847,
+                    "C2": 0.784263316318269,
+                    "C3": 0.792192986601496,
+                    "C4": 0.799182870705772,
+                    "C5": 0.801566304958681,
+                    "C6": 0.803582899761976,
+                    "C7": 0.806091662717639
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": 0.13144934618409,
+                    "C2": 0.12625027021562,
+                    "C3": 0.124259491803133,
+                    "C4": 0.124259491803133,
+                    "C5": 0.1235,
+                    "C6": 0.1235,
+                    "C7": 0.1235
+                },
+                {
+                    "C1": 0.034049818425687,
+                    "C2": 0.0331005058748955,
+                    "C3": 0.0328571586259107,
+                    "C4": 0.0328571586259107,
+                    "C5": 0.0328571586259107,
+                    "C6": 0.032,
+                    "C7": 0.032
+                },
+                {
+                    "C1": 0.0151166146130541,
+                    "C2": 0.0173107815894952,
+                    "C3": 0.0127617359522148,
+                    "C4": 0.0127617359522148,
+                    "C5": 0.0127617359522148,
+                    "C6": 0.012,
+                    "C7": 0.012
+                },
+                {
+                    "C1": 0.0196984994611684,
+                    "C2": 0.0172643610653674,
+                    "C3": 0.0150297961741524,
+                    "C4": 0.0150297961741524,
+                    "C5": 0.0150297961741524,
+                    "C6": 0.014,
+                    "C7": 0.014
+                },
+                {
+                    "C1": 0.200314278684,
+                    "C2": 0.193925918745378,
+                    "C3": 0.184908182555411,
+                    "C4": 0.184908182555411,
+                    "C5": 0.184148690752278,
+                    "C6": 0.1815,
+                    "C7": 0.1815
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": 0.0900342954165648,
+                    "C2": 0.0912955266905705,
+                    "C3": 0.0929192330981583,
+                    "C4": 0.091,
+                    "C5": 0.089,
+                    "C6": 0.088,
+                    "C7": 0.088
+                },
+                {
+                    "C1": 0.0397123323549781,
+                    "C2": 0.0318714271637834,
+                    "C3": 0.0312346010839947,
+                    "C4": 0.031,
+                    "C5": 0.029,
+                    "C6": 0.029,
+                    "C7": 0.029
+                },
+                {
+                    "C1": 0.129746627771543,
+                    "C2": 0.123166953854354,
+                    "C3": 0.124153834182153,
+                    "C4": 0.122,
+                    "C5": 0.118,
+                    "C6": 0.117,
+                    "C7": 0.117
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": 0.0416870018473888,
+                    "C2": 0.0354274371729586,
+                    "C3": 0.0356177786422058,
+                    "C4": 0.0338368897100955,
+                    "C5": 0.0321450452245907,
+                    "C6": 0.0289305407021317,
+                    "C7": 0.028351929888089
+                },
+                {
+                    "C1": 0.0413976577266154,
+                    "C2": 0.0360203755133992,
+                    "C3": 0.0412999776932739,
+                    "C4": 0.041,
+                    "C5": 0.03895,
+                    "C6": 0.0370025,
+                    "C7": 0.035152375
+                },
+                {
+                    "C1": 0.0830846595740042,
+                    "C2": 0.0714478126863577,
+                    "C3": 0.0769177563354797,
+                    "C4": 0.0748368897100956,
+                    "C5": 0.0710950452245908,
+                    "C6": 0.0659330407021317,
+                    "C7": 0.063504304888089
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": -17137.040485,
+                    "C2": -16996.8307000001,
+                    "C3": -16655.6840006479,
+                    "C4": -3280.79057556014,
+                    "C5": 15875.6579537445,
+                    "C6": 45572.7284082838,
+                    "C7": 57884.7618380999
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": 134717.359696305,
+                    "C4": 134514.665511806,
+                    "C5": 127170.64233323,
+                    "C6": 112191.181157101,
+                    "C7": 111434.837123694
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": -2162.36300670052,
+                    "C4": -2663.4569190246,
+                    "C5": -2864.83626521898,
+                    "C6": -3335.5580111983,
+                    "C7": -3756.9122222126
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": 7280.49040365433,
+                    "C4": -213.937364587451,
+                    "C5": -211.587567244163,
+                    "C6": -249.130001734168,
+                    "C7": -294.951089870204
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": -1938.85742633744,
+                    "C4": -539.259234946669,
+                    "C5": -1368.61958702855,
+                    "C6": -1712.65624751023,
+                    "C7": -1964.17637422167
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": 1723.58896384785,
+                    "C4": -6896.86373215004,
+                    "C5": 2677.24009630684,
+                    "C6": -1303.5430775881,
+                    "C7": 2809.31935789639
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": 1416.69990271722,
+                    "C4": 828.242576707071,
+                    "C5": 710.809556625362,
+                    "C6": 815.307705375637,
+                    "C7": 1197.99208922737
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": -6289.93094797726,
+                    "C4": 403.764550443743,
+                    "C5": 157.541948399048,
+                    "C6": 182.206150580703,
+                    "C7": -909.65082509827
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": 35451.1354475364,
+                    "C4": 7924.84596817641,
+                    "C5": -5198.86949609005,
+                    "C6": -16060.3940513866,
+                    "C7": -25182.4126596863
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": -3469.84962659801,
+                    "C4": 6099.12310755244,
+                    "C5": -3293.21456488729,
+                    "C6": 852.555869124852,
+                    "C7": -3077.41922850495
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": 0,
+                    "C4": 0,
+                    "C5": 0,
+                    "C6": 0,
+                    "C7": 0
+                },
+                {
+                    "C1": -17137.040485,
+                    "C2": -16996.8307000001,
+                    "C3": 150072.5894058,
+                    "C4": 136176.333888417,
+                    "C5": 133654.764407837,
+                    "C6": 136952.697901048,
+                    "C7": 138141.388009324
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": -8000,
+                    "C4": -8000,
+                    "C5": -8000,
+                    "C6": -8000,
+                    "C7": -8000
+                },
+                {
+                    "C1": -17137.040485,
+                    "C2": -16996.8307000001,
+                    "C3": 142072.5894058,
+                    "C4": 128176.333888417,
+                    "C5": 125654.764407837,
+                    "C6": 128952.697901048,
+                    "C7": 130141.388009324
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": 0,
+                    "C4": 0,
+                    "C5": 0,
+                    "C6": 0,
+                    "C7": 0
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": 0,
+                    "C4": 0,
+                    "C5": 0,
+                    "C6": 0,
+                    "C7": 0
+                },
+                {
+                    "C1": -17137.040485,
+                    "C2": -16996.8307000001,
+                    "C3": 142072.5894058,
+                    "C4": 128176.333888417,
+                    "C5": 125654.764407837,
+                    "C6": 128952.697901048,
+                    "C7": 130141.388009324
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": 0,
+                    "C4": 0,
+                    "C5": 0,
+                    "C6": 0,
+                    "C7": 0
+                },
+                {
+                    "C1": -17137.040485,
+                    "C2": -16996.8307000001,
+                    "C3": 142072.5894058,
+                    "C4": 128176.333888417,
+                    "C5": 125654.764407837,
+                    "C6": 128952.697901048,
+                    "C7": 130141.388009324
+                },
+                {
+                    "C1": "n/a",
+                    "C2": "n/a",
+                    "C3": 1.22043247429261,
+                    "C4": 0.979126481137327,
+                    "C5": 0.868867445719104,
+                    "C6": 0.805136774580321,
+                    "C7": 0.74048631820105
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": 0,
+                    "C2": 171966.14193,
+                    "C3": 269847.037699955,
+                    "C4": 355974.686715148,
+                    "C5": 447258.223040512,
+                    "C6": 546516.185333575,
+                    "C7": 653406.079589726
+                },
+                {
+                    "C1": 0,
+                    "C2": 33596.4262350001,
+                    "C3": 35758.7892417006,
+                    "C4": 38422.2461607252,
+                    "C5": 41287.0824259441,
+                    "C6": 44622.6404371424,
+                    "C7": 48379.552659355
+                },
+                {
+                    "C1": 0,
+                    "C2": 6041.22605499997,
+                    "C3": 2328.18454980845,
+                    "C4": 2417.45223088145,
+                    "C5": 2566.8708044054,
+                    "C6": 2746.05326358447,
+                    "C7": 2939.22428520039
+                },
+                {
+                    "C1": 0,
+                    "C2": 6852.48271999999,
+                    "C3": 7818.01338617424,
+                    "C4": 8086.55883014855,
+                    "C5": 8768.11703223825,
+                    "C6": 9621.00188345177,
+                    "C7": 10599.1411201611
+                },
+                {
+                    "C1": 0,
+                    "C2": 4616.53927500008,
+                    "C3": 1049.09037653728,
+                    "C4": 1173.76006005173,
+                    "C5": 1235.92905377195,
+                    "C6": 1305.87659632704,
+                    "C7": 1407.65666458132
+                },
+                {
+                    "C1": 0,
+                    "C2": 223072.816215,
+                    "C3": 316801.115254175,
+                    "C4": 406074.703996955,
+                    "C5": 501116.222356871,
+                    "C6": 604811.757514081,
+                    "C7": 716731.654319024
+                },
+                {
+                    "C1": 0,
+                    "C2": 6739.74603,
+                    "C3": 13469.9100009373,
+                    "C4": 20153.9269322706,
+                    "C5": 26304.6105302706,
+                    "C6": 31921.9607949373,
+                    "C7": 37005.9777262706
+                },
+                {
+                    "C1": 0,
+                    "C2": 4500.85194,
+                    "C3": 2777.26297615215,
+                    "C4": 9674.12670830219,
+                    "C5": 6996.88661199535,
+                    "C6": 8300.42968958344,
+                    "C7": 5491.11033168705
+                },
+                {
+                    "C1": 0,
+                    "C2": 632658.152785,
+                    "C3": 632658.152785,
+                    "C4": 632658.152785,
+                    "C5": 632658.152785,
+                    "C6": 632658.152785,
+                    "C7": 632658.152785
+                },
+                {
+                    "C1": 0,
+                    "C2": 199855.764345,
+                    "C3": 128634.573805461,
+                    "C4": 88842.180729598,
+                    "C5": 52422.361019765,
+                    "C6": 30404.4298417666,
+                    "C7": 8388.35964936405
+                },
+                {
+                    "C1": 0,
+                    "C2": 6907.8125,
+                    "C3": 7881.13926016319,
+                    "C4": 8151.85305113555,
+                    "C5": 8838.9144360744,
+                    "C6": 9698.6858323711,
+                    "C7": 10684.7229698834
+                },
+                {
+                    "C1": 0,
+                    "C2": 6285.40718,
+                    "C3": 6285.40718,
+                    "C4": 6285.40718,
+                    "C5": 6285.40718,
+                    "C6": 6285.40718,
+                    "C7": 6285.40718
+                },
+                {
+                    "C1": 0,
+                    "C2": 1080020.550995,
+                    "C3": 1108507.56126189,
+                    "C4": 1171840.35138326,
+                    "C5": 1234622.55491998,
+                    "C6": 1324080.82363774,
+                    "C7": 1417245.38496123
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": 0,
+                    "C2": 11793.86066,
+                    "C3": 13210.5605627173,
+                    "C4": 14038.8031394243,
+                    "C5": 14749.6126960497,
+                    "C6": 15564.9204014253,
+                    "C7": 16762.9124906527
+                },
+                {
+                    "C1": 0,
+                    "C2": 11468.52591,
+                    "C3": 5178.59496202274,
+                    "C4": 5582.35951246649,
+                    "C5": 5739.90146086554,
+                    "C6": 5922.10761144624,
+                    "C7": 5012.45678634797
+                },
+                {
+                    "C1": 0,
+                    "C2": 3756.70426,
+                    "C3": 2201.17544809748,
+                    "C4": 4935.40394273115,
+                    "C5": 3459.0603858832,
+                    "C6": 3841.26000860303,
+                    "C7": 2461.65720404701
+                },
+                {
+                    "C1": 0,
+                    "C2": 2580.14256,
+                    "C3": 5000,
+                    "C4": 5000,
+                    "C5": 5000,
+                    "C6": 5000,
+                    "C7": 0
+                },
+                {
+                    "C1": 0,
+                    "C2": 145891.94882,
+                    "C3": 180069.152532649,
+                    "C4": 187709.220237859,
+                    "C5": 182697.171410641,
+                    "C6": 167213.90543706,
+                    "C7": 142936.419354286
+                },
+                {
+                    "C1": 0,
+                    "C2": 175491.18221,
+                    "C3": 205659.483505486,
+                    "C4": 217265.78683248,
+                    "C5": 211645.74595344,
+                    "C6": 197542.193458535,
+                    "C7": 167173.445835334
+                },
+                {
+                    "C1": 0,
+                    "C2": 241193.546115,
+                    "C3": 233773.688675,
+                    "C4": 228773.688675,
+                    "C5": 223773.688675,
+                    "C6": 218773.688675,
+                    "C7": 218773.688675
+                },
+                {
+                    "C1": 0,
+                    "C2": 5438.021935,
+                    "C3": 6711.95366988728,
+                    "C4": 6996.73193285418,
+                    "C5": 6809.91126398144,
+                    "C6": 6232.78318617602,
+                    "C7": 5327.85660926349
+                },
+                {
+                    "C1": 0,
+                    "C2": 4623.210515,
+                    "C3": 2708.88970030451,
+                    "C4": 6073.78431322329,
+                    "C5": 4256.91330518394,
+                    "C6": 4727.26955158896,
+                    "C7": 3029.45312764004
+                },
+                {
+                    "C1": 0,
+                    "C2": 8034.472515,
+                    "C3": 8034.472515,
+                    "C4": 8034.472515,
+                    "C5": 8034.472515,
+                    "C6": 8034.472515,
+                    "C7": 8034.472515
+                },
+                {
+                    "C1": 0,
+                    "C2": 2448.779495,
+                    "C3": 2448.779495,
+                    "C4": 2448.779495,
+                    "C5": 2448.779495,
+                    "C6": 2448.779495,
+                    "C7": 2448.779495
+                },
+                {
+                    "C1": 0,
+                    "C2": 437229.212785,
+                    "C3": 459337.267560678,
+                    "C4": 469593.243763558,
+                    "C5": 456969.511207605,
+                    "C6": 437759.1868813,
+                    "C7": 404787.696257238
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": 0,
+                    "C4": 0,
+                    "C5": 0,
+                    "C6": 0,
+                    "C7": 0
+                },
+                {
+                    "C1": 0,
+                    "C2": 659775.199345,
+                    "C3": 682809.838832397,
+                    "C4": 739167.44332645,
+                    "C5": 798697.721465374,
+                    "C6": 861793.586101158,
+                    "C7": 930044.87621061
+                },
+                {
+                    "C1": 0,
+                    "C2": -16983.8611350001,
+                    "C3": -33639.5451356481,
+                    "C4": -36920.3357112081,
+                    "C5": -21044.6777574637,
+                    "C6": 24528.0506508201,
+                    "C7": 82412.81248892
+                },
+                {
+                    "C1": 0,
+                    "C2": 642791.33821,
+                    "C3": 649170.293696749,
+                    "C4": 702247.107615242,
+                    "C5": 777653.043707911,
+                    "C6": 886321.636751978,
+                    "C7": 1012457.68869953
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": 0,
+                    "C2": 1080020.550995,
+                    "C3": 1108507.56125743,
+                    "C4": 1171840.3513788,
+                    "C5": 1234622.55491552,
+                    "C6": 1324080.82363328,
+                    "C7": 1417245.38495677
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": -16655.6840006479,
+                    "C4": -3280.79057556008,
+                    "C5": 15875.6579537444,
+                    "C6": 45572.7284082838,
+                    "C7": 57884.7618380999
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": 1269.83602906274,
+                    "C4": 1315.98306866667,
+                    "C5": 1849.316402,
+                    "C6": 2382.64973533333,
+                    "C7": 2915.98306866667
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": 71221.190544,
+                    "C4": 39792.3930758627,
+                    "C5": 36419.819709833,
+                    "C6": 22017.9311779984,
+                    "C7": 22016.0701924026
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": 23034.6394873975,
+                    "C4": 56357.6044940528,
+                    "C5": 59530.278138924,
+                    "C6": 63095.8646357837,
+                    "C7": 68251.2901094524
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": 0,
+                    "C4": 0,
+                    "C5": 0,
+                    "C6": 0,
+                    "C7": 0
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": -2162.36300670052,
+                    "C4": -2663.4569190246,
+                    "C5": -2864.83626521898,
+                    "C6": -3335.5580111983,
+                    "C7": -3756.9122222126
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": 7280.49040365433,
+                    "C4": -213.937364587451,
+                    "C5": -211.587567244163,
+                    "C6": -249.130001734168,
+                    "C7": -294.951089870204
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": -1938.85742633744,
+                    "C4": -539.259234946669,
+                    "C5": -1368.61958702855,
+                    "C6": -1712.65624751023,
+                    "C7": -1964.17637422167
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": 1723.58896384785,
+                    "C4": -6896.86373215004,
+                    "C5": 2677.24009630684,
+                    "C6": -1303.5430775881,
+                    "C7": 2809.31935789639
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": -4873.23104526003,
+                    "C4": 1232.00712715081,
+                    "C5": 868.35150502441,
+                    "C6": 997.51385595634,
+                    "C7": 288.341264129098
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": 35451.1354475364,
+                    "C4": 7924.84596817641,
+                    "C5": -5198.86949609005,
+                    "C6": -16060.3940513866,
+                    "C7": -25182.4126596863
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": -3469.84962659801,
+                    "C4": 6099.12310755244,
+                    "C5": -3293.21456488729,
+                    "C6": 852.555869124852,
+                    "C7": -3077.41922850495
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": 0,
+                    "C4": 0,
+                    "C5": 0,
+                    "C6": 0,
+                    "C7": 0
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": 110880.895769955,
+                    "C4": 99127.649015193,
+                    "C5": 104283.536325364,
+                    "C6": 112257.962293063,
+                    "C7": 119889.894256151
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": -8000,
+                    "C4": -8000,
+                    "C5": -8000,
+                    "C6": -8000,
+                    "C7": -8000
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": 0,
+                    "C4": 0,
+                    "C5": 0,
+                    "C6": 0,
+                    "C7": 0
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": -8000,
+                    "C4": -8000,
+                    "C5": -8000,
+                    "C6": -8000,
+                    "C7": -8000
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": 0,
+                    "C4": 0,
+                    "C5": 0,
+                    "C6": 0,
+                    "C7": 0
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": 0,
+                    "C4": 0,
+                    "C5": 0,
+                    "C6": 0,
+                    "C7": 218773.688675
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": 0,
+                    "C4": 0,
+                    "C5": 0,
+                    "C6": 0,
+                    "C7": 0
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": -5000,
+                    "C4": -5000,
+                    "C5": -5000,
+                    "C6": -5000,
+                    "C7": -223773.688675
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": 0,
+                    "C4": 0,
+                    "C5": 0,
+                    "C6": 0,
+                    "C7": 0
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": 0,
+                    "C4": 0,
+                    "C5": 0,
+                    "C6": 0,
+                    "C7": 0
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": 0,
+                    "C4": 0,
+                    "C5": 0,
+                    "C6": 0,
+                    "C7": 0
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": -5000,
+                    "C4": -5000,
+                    "C5": -5000,
+                    "C6": -5000,
+                    "C7": -5000
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": 0,
+                    "C4": 0,
+                    "C5": 0,
+                    "C6": 0,
+                    "C7": 0
+                },
+                {
+                    "C1": "NA",
+                    "C2": "NA",
+                    "C3": "NA",
+                    "C4": "NA",
+                    "C5": "NA",
+                    "C6": "NA",
+                    "C7": "NA"
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": 171966.14193,
+                    "C4": 269847.037699955,
+                    "C5": 355974.686715148,
+                    "C6": 447258.223040512,
+                    "C7": 546516.185333575
+                },
+                {
+                    "C1": 0,
+                    "C2": 0,
+                    "C3": 97880.8957699548,
+                    "C4": 86127.649015193,
+                    "C5": 91283.5363253637,
+                    "C6": 99257.962293063,
+                    "C7": 106889.894256151
+                },
+                {
+                    "C1": 0,
+                    "C2": 171966.14193,
+                    "C3": 269847.037699955,
+                    "C4": 355974.686715148,
+                    "C5": 447258.223040512,
+                    "C6": 546516.185333575,
+                    "C7": 653406.079589726
+                }
+            ],
+            "period": [
+                {
+                    "Y1": 2022,
+                    "Y2": 2023,
+                    "Y3": 2024,
+                    "Y4": 2025,
+                    "Y5": 2026,
+                    "Y6": 2027,
+                    "Y7": 2028
+                }
+            ]
+        },
+        "service_chain": null,
+        "warnings": [
+            {
+                "message": "Input parameter missing for 'Capex'. API request processed using the default values saved into the file.",
+                "source_path": "Default Values"
+            },
+            {
+                "message": "Input parameter missing for 'existing_leases'. API request processed using the default values saved into the file.",
+                "source_path": "Default Values"
+            },
+            {
+                "message": "Input parameter missing for 'ExistingPPEUsefulLife'. API request processed using the default values saved into the file.",
+                "source_path": "Default Values"
+            },
+            {
+                "message": "Input parameter missing for 'GA_non_personnel_expenses'. API request processed using the default values saved into the file.",
+                "source_path": "Default Values"
+            },
+            {
+                "message": "Input parameter missing for 'GA_personnel_expenses'. API request processed using the default values saved into the file.",
+                "source_path": "Default Values"
+            },
+            {
+                "message": "Input parameter missing for 'GlobalSaaSCOGS'. API request processed using the default values saved into the file.",
+                "source_path": "Default Values"
+            },
+            {
+                "message": "Input parameter missing for 'GRR'. API request processed using the default values saved into the file.",
+                "source_path": "Default Values"
+            },
+            {
+                "message": "Input parameter missing for 'InterestIncome'. API request processed using the default values saved into the file.",
+                "source_path": "Default Values"
+            },
+            {
+                "message": "Input parameter missing for 'LineItem'. API request processed using the default values saved into the file.",
+                "source_path": "Default Values"
+            },
+            {
+                "message": "Input parameter missing for 'LongTermDebtBorrowingCosts'. API request processed using the default values saved into the file.",
+                "source_path": "Default Values"
+            },
+            {
+                "message": "Input parameter missing for 'NewPPEUsefulLife'. API request processed using the default values saved into the file.",
+                "source_path": "Default Values"
+            },
+            {
+                "message": "Input parameter missing for 'RD_non_personnel_expenses'. API request processed using the default values saved into the file.",
+                "source_path": "Default Values"
+            },
+            {
+                "message": "Input parameter missing for 'RD_personnel_expenses'. API request processed using the default values saved into the file.",
+                "source_path": "Default Values"
+            }
+        ]
+    },
+    "response_meta": {
+        "call_id": "d25eb207-9570-456c-bcd5-c87d8248b47b",
+        "compiler_type": "Neuron",
+        "compiler_version": "1.22.8",
+        "correlation_id": "",
+        "engine_id": "EB5E4C4E68EEDF0A3E8D686AAFA701B0",
+        "parameterset_version_id": null,
+        "process_time": 1657,
+        "request_timestamp": "2025-07-09T18:34:18.038Z",
+        "service_id": "4a53236b-fd4f-4fff-b3bd-abb79ad27c25",
+        "source_hash": null,
+        "system": "SPARK",
+        "version": "0.11.0",
+        "version_id": "b8abce20-ff2b-4076-9a85-d4929bf83d57"
+    },
+    "status": "Success"
+}
